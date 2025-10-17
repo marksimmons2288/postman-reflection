@@ -1,8 +1,11 @@
 # postman-reflection
 Weather Bit API
 
+## Exploring the Weather API Assignment
+
 ## Request URL
 The base url was https://api.weatherbit.io/v2.0 (had issues due to placing www. in the url which gave an error of invalid URI).
+
 ## Query Parameters Used
 ### 
 1. api-key
